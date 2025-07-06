@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **supratikbhowal23@gmail.com**
 
-- ⚡ Fun fact: **Lifting Weights and Writing Code are my Forte**
+- ⚡ Fun fact: **Lifting Weights and Writing Code are my Forte** <br>
+
+<p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
