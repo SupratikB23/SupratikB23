@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact: **Lifting Weights and Writing Code are my Forte**
 
-<p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif" width="345" height="345" alt="a cartoon of a girl looking at a laptop with the words effect credit written above her" fetchpriority="high" style="max-width: 345px;">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kaggle.com/supratikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supratik bhowal" height="30" width="40" /></a>
