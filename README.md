@@ -2,8 +2,6 @@
 <h3 align="center">A zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supratikb23" alt="supratikb23" /></a> </p>
-
 - 🔭 I’m currently working on **writing Review Paper on SciML**
 
 - 🌱 I’m currently learning **ML & DL Frameworks**
