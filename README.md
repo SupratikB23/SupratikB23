@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supratik</h1>
+<h1 align="center">Hola! 👋, I'm Supratik</h1>
 <h3 align="center">A zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
