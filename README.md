@@ -2,15 +2,15 @@
 <h3 align="center">A zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
-- 🔭 I’m currently working on **writing Review Paper on SciML**
+- 🔭 I’m currently working on **writing Paper on SciML** & **developing new RL Project**
 
-- 🌱 I’m currently learning **ML & DL Frameworks**
+- 🌱 I’m currently learning **DL Frameworks**, **LLMs** & **RL Applications** 
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **supratikbhowal23@gmail.com**
 
-- ⚡ Fun fact: **Lifting Weights and Writing Code are my Forte** <br>
+- ⚡ Fun fact: **Lifting Weights and Coding are my Forte** <br>
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supratikb23&show_icons=true&theme=dark&locale=en&layout=compact" alt="supratikb23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supratikb23&show_icons=true&theme=dark&locale=en" alt="supratikb23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supratikb23&theme=dark" alt="supratikb23" /></p>
