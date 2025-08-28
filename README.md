@@ -1,4 +1,9 @@
-<h1 align="center">Hola! 👋, I'm Supratik</h1>
+<div align= "center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Supratik+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+</div>
+
+<h1> </h1>
 <h3 align="center">A zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
