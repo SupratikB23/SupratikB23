@@ -7,7 +7,7 @@
 <h3 align="center">A zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
-- 🔭 I’m currently working on **writing Paper on Scientific ML** , **developing new RL Project** & **working on Human-Computer Interaction**
+- 🔭 I’m currently working on **writing Paper on Scientific ML** , **developing a new RL Project** & **working on Human-Computer Interaction**
 
 - 🌱 I’m currently learning **DL Frameworks**, **LLMs** & **RL Applications** 
 
