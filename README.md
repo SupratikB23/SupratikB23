@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **DL Frameworks**, **LLMs** & **RL Applications** 
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **supratikbhowal23@gmail.com**
+
+- 🧑‍💻 My PORTFOLIO: **https://supratikb23.github.io/**
 
 - ⚡ Fun fact: **Lifting Weights and Coding are my Forte** <br>
 
