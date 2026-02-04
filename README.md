@@ -34,15 +34,6 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=SupratikB23&theme=codeSTACKr&hide_border=false)<br/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supratikb23&show_icons=true&theme=dark&locale=en&layout=compact" alt="supratikb23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supratikb23&show_icons=true&theme=dark&locale=en" alt="supratikb23" /></p>
