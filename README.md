@@ -9,7 +9,7 @@
 
 <h4> Here's a little more about me...</h4>
 
-- 🎓 Second year undergrad.
+- 🎓 Second year Undergrad
 
 - 🔭 I’m currently working on **writing Paper on ADAS & Scientific ML** , **developing a new RL Project** and **working on Human-Computer Interaction**
 
