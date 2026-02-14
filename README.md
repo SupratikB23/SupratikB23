@@ -11,12 +11,10 @@
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
 <div align="center">
-<table>
   <tr>
 <!--<td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td> -->
     <td><img src="https://komarev.com/ghpvc/?username=SupratikB23&style=for-the-badge&color=blue&label=You+are+Visitor&base=3985" alt="GitHub Profile Views Counter" /></td>
   </tr>
-</table>
 </div>
 
 <h4> Here's a little more about me...</h4>
