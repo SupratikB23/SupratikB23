@@ -29,7 +29,7 @@
 
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 
-- ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, I’m a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
+- ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
