@@ -29,7 +29,7 @@
 
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 
-- ⚡ Fun fact: Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
+- ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, I’m a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
@@ -60,9 +60,8 @@
   - ML/DL<br>
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
