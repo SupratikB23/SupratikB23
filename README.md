@@ -21,7 +21,7 @@
 
 - 🎓 Second year Undergrad
 
-- 🔭 I’m currently working on **writing Paper on ADAS & Scientific ML** , **developing RL Project** and **working on Human-Computer Interaction**
+- 🔭 I’m currently working on **writing Paper on Ethical AI & Scientific ML** , **developing RL Project** and **working on Human-Computer Interaction**
 
 - 🌱 I’m currently learning **LLM Orchestration** & **RL Applications** 
 
