@@ -2,8 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Supratik+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
-<h1> </h1>
+
 <h3 align="center">A Zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
@@ -19,9 +22,13 @@
 
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 
-- ⚡ Fun fact: **Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd** (Active on [Letterboxd](https://letterboxd.com/Vanitas23/)) <br>
+- ⚡ Fun fact: **Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd** (active on [Letterboxd](https://letterboxd.com/Vanitas23/)) <br>
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
