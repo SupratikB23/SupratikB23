@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **writing Paper on ADAS & Scientific ML** , **developing a new RL Project** and **working on Human-Computer Interaction**
 
-- 🌱 I’m currently learning **LLMs** & **RL Applications** 
+- 🌱 I’m currently learning **LLM Orchestration** & **RL Applications** 
 
 - 📫 How to reach me **supratikbhowal23@gmail.com** or **[LinkedIN](https://linkedin.com/in/supratik-bhowal-b58906319)** (always happy to connect)
 
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 
-- ⚡ Fun fact: **Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd** (lol) <br>
+- ⚡ Fun fact: **Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd** (Active on [Letterboxd](https://letterboxd.com/Vanitas23/)) <br>
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
