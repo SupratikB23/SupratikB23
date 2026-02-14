@@ -7,15 +7,18 @@
 <h3 align="center">A Zealous Coder and Machine Learning enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
-- 🔭 I’m currently working on **writing Paper on Scientific ML** , **developing a new RL Project** & **working on Human-Computer Interaction**
+<h4> Here's a little more about me...</h4>
+- 🎓 Second year undergrad.
 
-- 🌱 I’m currently learning **DL Frameworks**, **LLMs** & **RL Applications** 
+- 🔭 I’m currently working on **writing Paper on ADAS & Scientific ML** , **developing a new RL Project** and **working on Human-Computer Interaction**
 
-- 📫 How to reach me **supratikbhowal23@gmail.com**
+- 🌱 I’m currently learning **LLMs** & **RL Applications** 
+
+- 📫 How to reach me **supratikbhowal23@gmail.com** or **[LinkedIN](https://linkedin.com/in/supratik-bhowal-b58906319)** (always happy to connect)
 
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 
-- ⚡ Fun fact: **Lifting Weights and Coding are my Forte** <br>
+- ⚡ Fun fact: **Lifting Weights and Coding are my Forte. Also I'm a huge Cinephile & Anime Nerd** (lol) <br>
 
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
 
