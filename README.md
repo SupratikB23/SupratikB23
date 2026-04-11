@@ -95,16 +95,16 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🚗 [**Forward-Collision-Warning-Project**](https://github.com/SishirxGope/Forward-Collision-Warning-Project) | Agent-based FCW & Collision Avoidance using CARLA, Radar Sensor Fusion, and Explainable AI | `Python` `CARLA` `Radar` `CV` |
-| ⭐ [**VerGo**](https://github.com/SishirxGope/VerGo) | Most starred repo, Python-based project | `Python` |
-| 🧠 [**cognitive_load_estimator**](https://github.com/SishirxGope/cognitive_load_estimator) | ML-based cognitive load estimation system | `Python` `ML` |
-| 🧭 [**IndoorNavFresh**](https://github.com/SishirxGope/IndoorNavFresh) | Indoor navigation system | `TypeScript` |
-| 📊 [**competitor-analysis-workflow**](https://github.com/SishirxGope/competitor-analysis-workflow) | Automated competitor analysis pipeline | `Python` |
-| 📡 [**ver.radar**](https://github.com/SishirxGope/ver.radar) | Radar-based sensing and processing | `Python` |
-| 🏆 [**ai_hackathon**](https://github.com/SishirxGope/ai_hackathon) | AI hackathon project | `Python` |
+| 🤖 [**Agentic HR Operations Assistant**](https://github.com/SupratikB23/Agentic-HR-Operations-Assistant) | NLP hackathon project | `Python` `RAG`|
+| 🎵 [**HarmonyRL**](https://github.com/SupratikB23/HarmonyRL) | Symbolic Music (MIDI) Generator using RL and Diffusion-based Postprocessing  | `Python` `RL` `LSTM` |
+| 🧠 [**EEG Seizure Detection and Prediction**](https://github.com/SupratikB23/Epilepsy-Prediction-and-Detection) | Seizure Detection and Prediction on EEG signals | `Python` `SignalProcessing` `ML` |
+| 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 arch | `Python` `ResNet50` `DL` |
+| 🎴 [**Poker Hand Prediction**](https://github.com/SupratikB23/Poker-Hand-Prediction) | Poker Hand Rankings Prediction based on Card Combinations. | `Python` `ML`|
+| ⭐ [**Meme Context Clustering**](https://github.com/SupratikB23/Meme-Context-Clustering) | NLP-Based Approach to Thematic Grouping of Internet Memes | `Python` `NLP` `ML`|
+| 🧭 [**Sentiment Analysis & Recommendation System for App Data**](https://github.com/SupratikB23/Sentiment-Analysis-and-Recommendation-System-for-App-Review-Data) | Analyze & Predict the sentiment of User Reviews  from 1 million Google Play Store entries. | `Python` `NLP` `LSTM` |
 
 
-
+<br>
 <h2 align="left">My GitHub Stats!</h2>
 
 <!-- Copy-paste in your Readme.md file -->
