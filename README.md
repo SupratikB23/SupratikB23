@@ -1,6 +1,6 @@
 <div align= "center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Supratik+.+.+.;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Supratik+.+.+.;Checkout+my+Github+Profile+%F0%9F%98%81)](https://git.io/typing-svg)
 </div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
@@ -18,22 +18,25 @@
 </div>
 
 <h3> Here's a little more about me...</h3>
-
-- 🎓 Second year Undergrad
-
-- 🔭 I’m currently working on **writing Paper on Ethical AI & Scientific ML** , **developing RL Project** and **working on Human-Computer Interaction**
-
-- 🌱 I’m currently learning **LLM Orchestration** & **RL Applications** 
-
+<table>
+<tr>
+<td width="60%" valign="top">
+  
+- 🎓 2nd Year Undergrad (Batch of 2028)
+- 🔭 Working on **Scientific ML** , **RL Project** and **Human-Computer Interaction**
+- 🌱 I’m currently learning **LLM Orchestration** & **ADAS Applications**
 - 📫 How to reach me **supratikbhowal23@gmail.com** or **[LinkedIN](https://linkedin.com/in/supratik-bhowal-b58906319)** (always happy to connect)
-
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
-
 - ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
 
+</td>
+<td width="40%" align="center" valign="middle">
 <p align="center"><img src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 220px; margin: 64px 0px; width: 220px;" alt="Coding Typing GIF - Coding Typing Pc - Discover &amp; Share GIFs" jsname="kn3ccd">
+</td>
+</tr>
+</table>
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supratik-bhowal-b58906319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supratik-bhowal-b58906319" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/supratikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supratik bhowal" height="30" width="40" /></a>
@@ -45,7 +48,7 @@
 <br>
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
   
   - **Programming Languages<br>**
@@ -53,20 +56,17 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="29px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 
-  - **ML/DL<br>**
+  - **AI / ML<br>**
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
   - **Frameworks, Platforms and Libraries<br>**
   ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -76,16 +76,32 @@
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
   - **IDEs/Editors<br>**
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="29px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" height="29px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="29px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio Code" height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
   
   </p>
 <br>
+
+
+<h2 align="left">Featured Projects</h2>
+
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 🚗 [**Forward-Collision-Warning-Project**](https://github.com/SishirxGope/Forward-Collision-Warning-Project) | Agent-based FCW & Collision Avoidance using CARLA, Radar Sensor Fusion, and Explainable AI | `Python` `CARLA` `Radar` `CV` |
+| ⭐ [**VerGo**](https://github.com/SishirxGope/VerGo) | Most starred repo, Python-based project | `Python` |
+| 🧠 [**cognitive_load_estimator**](https://github.com/SishirxGope/cognitive_load_estimator) | ML-based cognitive load estimation system | `Python` `ML` |
+| 🧭 [**IndoorNavFresh**](https://github.com/SishirxGope/IndoorNavFresh) | Indoor navigation system | `TypeScript` |
+| 📊 [**competitor-analysis-workflow**](https://github.com/SishirxGope/competitor-analysis-workflow) | Automated competitor analysis pipeline | `Python` |
+| 📡 [**ver.radar**](https://github.com/SishirxGope/ver.radar) | Radar-based sensing and processing | `Python` |
+| 🏆 [**ai_hackathon**](https://github.com/SishirxGope/ai_hackathon) | AI hackathon project | `Python` |
+
+
 
 <h2 align="left">My GitHub Stats!</h2>
 
