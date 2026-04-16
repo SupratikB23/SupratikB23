@@ -37,14 +37,28 @@
 </table>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/supratik-bhowal-b58906319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supratik-bhowal-b58906319" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/supratikbhowal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supratik bhowal" height="30" width="40" /></a>
-<a href="https://www.deep-ml.com/profile/G2xqzidHZ7ObxDBmYxYOgV4oD2K2" target="blank"><img align="center" src="https://github.com/user-attachments/assets/97820e4c-669b-467a-aa44-cd6f7f50dd9b" alt="supratikbhowal" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/Supratik23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="supratik bhowal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/supratikbhowal23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="supratikbhowal23" height="30" width="40" /></a>
-<a href="https://letterboxd.com/Vanitas23/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/39808cd6-ab31-4e14-b20d-01948de5279d" alt="letterboxd-decal-dots-pos-rgb-500px" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/supratik-bhowal-b58906319" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>
+  <a href="https://www.kaggle.com/supratikbhowal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" />
+  </a>
+  <a href="https://www.deep-ml.com/profile/G2xqzidHZ7ObxDBmYxYOgV4oD2K2" target="_blank">
+    <img src="https://github.com/user-attachments/assets/97820e4c-669b-467a-aa44-cd6f7f50dd9b" height="35" />
+  </a>
+  <a href="https://leetcode.com/u/Supratik23/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+  </a>
+  <a href="https://www.hackerrank.com/supratikbhowal23" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
+  </a>
+  <a href="https://letterboxd.com/Vanitas23/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/39808cd6-ab31-4e14-b20d-01948de5279d" height="35" />
+  </a>
 </p>
+
 <br>
 
 ![cropped](https://github.com/user-attachments/assets/b7606b28-9c8e-4140-9a76-6ae618d8baf2)
