@@ -110,8 +110,8 @@
 | 🤖 [**Agentic HR Operations Assistant**](https://github.com/SupratikB23/Agentic-HR-Operations-Assistant) | NLP-powered system that answers complex HR policy queries using RAG | `Python` `RAG`|
 | 🎵 [**HarmonyRL**](https://github.com/SupratikB23/HarmonyRL) | Symbolic Music (MIDI) Generator using RL and Diffusion-based Postprocessing  | `Python` `RL` `LSTM` |
 | 🧠 [**EEG Seizure Detection and Prediction**](https://github.com/SupratikB23/Epilepsy-Prediction-and-Detection) | Seizure Detection and Prediction on EEG signals | `Python` `SignalProcessing` `ML` |
+| 🖼️ [**AI Campaign Manager**](https://github.com/SupratikB23/AI-Campaign-Manager) | AI-powered platform that extracts Brand DNA & generates Static Ad Creatives. | `Javascript` `ImageGeneration` `Gemini Vision`|
 | 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 Arch | `Python` `ResNet50` `DL` |
-| 🎴 [**AI Campaign Manager**](https://github.com/SupratikB23/Poker-Hand-Prediction) | AI-powered platform that extracts Brand DNA directly from any Website and automatically generates perfectly aligned Static Ad Creatives. | `Javascript` `Image Generation` `Gemini Vision`|
 | ⭐ [**Meme Context Clustering**](https://github.com/SupratikB23/Meme-Context-Clustering) | NLP-Based Approach to Thematic Grouping of Internet Memes | `Python` `NLP` `ML`|
 | 🧭 [**Sentiment Analysis & Recommendation System for App Data**](https://github.com/SupratikB23/Sentiment-Analysis-and-Recommendation-System-for-App-Review-Data) | Analyze & Predict the sentiment of User Reviews  from 1 million Google Play Store entries | `Python` `NLP` `LSTM` |
 
