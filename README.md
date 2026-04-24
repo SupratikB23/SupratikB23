@@ -41,19 +41,19 @@
 <p align="left">
   <a href="https://linkedin.com/in/supratik-bhowal-b58906319" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.kaggle.com/supratikbhowal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.deep-ml.com/profile/G2xqzidHZ7ObxDBmYxYOgV4oD2K2" target="_blank">
     <img src="https://github.com/user-attachments/assets/97820e4c-669b-467a-aa44-cd6f7f50dd9b" height="35" />
-  </a>
+  </a> &nbsp;
   <a href="https://leetcode.com/u/Supratik23/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
-  </a>
+  </a> &nbsp;
   <a href="https://www.hackerrank.com/supratikbhowal23" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
-  </a>
+  </a> &nbsp;
   <a href="https://letterboxd.com/Vanitas23/" target="_blank">
     <img src="https://github.com/user-attachments/assets/39808cd6-ab31-4e14-b20d-01948de5279d" height="35" />
   </a>
