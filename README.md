@@ -112,8 +112,7 @@
 | 🧠 [**EEG Seizure Detection and Prediction**](https://github.com/SupratikB23/Epilepsy-Prediction-and-Detection) | Seizure Detection and Prediction on EEG signals | `Python` `SignalProcessing` `ML` |
 | 🖼️ [**AI Campaign Manager**](https://github.com/SupratikB23/AI-Campaign-Manager) | AI-powered platform that extracts Brand DNA & generates Static Ad Creatives. | `Javascript` `ImageGeneration` `Gemini Vision`|
 | 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 Arch | `Python` `ResNet50` `DL` |
-| ⭐ [**Meme Context Clustering**](https://github.com/SupratikB23/Meme-Context-Clustering) | NLP-Based Approach to Thematic Grouping of Internet Memes | `Python` `NLP` `ML`|
-| 🧭 [**Sentiment Analysis & Recommendation System for App Data**](https://github.com/SupratikB23/Sentiment-Analysis-and-Recommendation-System-for-App-Review-Data) | Analyze & Predict the sentiment of User Reviews  from 1 million Google Play Store entries | `Python` `NLP` `LSTM` |
+
 
 
 <br>
