@@ -112,7 +112,7 @@
 | 🧠 [**EEG Seizure Detection and Prediction**](https://github.com/SupratikB23/Epilepsy-Prediction-and-Detection) | Seizure Detection and Prediction on EEG signals | `Python` `SignalProcessing` `ML` |
 | 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 Arch | `Python` `ResNet50` `DL` |
 | 🖼️ [**AI Campaign Manager**](https://github.com/SupratikB23/AI-Campaign-Manager) | AI-powered platform that extracts Brand DNA & generates Static Ad Creatives | `Javascript` `ImageGeneration` `Gemini Vision`|
-| 🖼️ [**SEO/AEO/GEO Optimized Brand Article Generator**](https://github.com/SupratikB23/Search-Optimized-Brand-Article-Generator) | Self-hosted brand content engine - scrapes brand DNA, researches live trends & writes SEO/AEO/GEO-optimized articles in the brand's own voice | `Javascript` `Python` `SEO GEO AEO` `NLP` |
+| 📰 [**SEO/AEO/GEO Optimized Brand Article Generator**](https://github.com/SupratikB23/Search-Optimized-Brand-Article-Generator) | Self-hosted brand content engine - scrapes brand DNA, researches live trends & writes SEO/AEO/GEO-optimized articles in the brand's own voice | `Javascript` `Python` `SEO GEO AEO` `NLP` |
 
 
 
