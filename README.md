@@ -107,7 +107,7 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| 🤖 [**Agentic HR Operations Assistant**](https://github.com/SupratikB23/Agentic-HR-Operations-Assistant) | NLP-powered system that answers complex HR policy queries using RAG | `Python` `RAG`|
+| 🤖 [**Agentic HR Operations Assistant**](https://github.com/SupratikB23/Agentic-HR-Operations-Assistant) | NLP-powered system that answers complex HR policy queries using RAG | `Python` `RAG` `NLP`|
 | 🎵 [**HarmonyRL**](https://github.com/SupratikB23/HarmonyRL) | Symbolic Music (MIDI) Generator using RL and Diffusion-based Postprocessing  | `Python` `RL` `LSTM` |
 | 🧠 [**EEG Seizure Detection and Prediction**](https://github.com/SupratikB23/Epilepsy-Prediction-and-Detection) | Seizure Detection and Prediction on EEG signals | `Python` `SignalProcessing` `ML` |
 | 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 Arch | `Python` `ResNet50` `DL` |
