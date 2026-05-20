@@ -23,8 +23,8 @@
 <td width="60%" valign="top">
   
 - 🎓 2nd Year Undergrad (Batch of 2028)
-- 🔭 Working on **Scientific ML** , **RL Project** and **Human-Computer Interaction**
-- 🌱 Currently learning **LLM Orchestration** & **ADAS Applications**
+- 🔭 Working on **Scientific ML** , **RL Project** and **CV Applications**
+- 🌱 Currently learning **LLM Orchestration** & **ADAS systems**
 - 📫 How to reach me **supratikbhowal23@gmail.com** or **[LinkedIN](https://linkedin.com/in/supratik-bhowal-b58906319)** (always happy to connect)
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 - ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
