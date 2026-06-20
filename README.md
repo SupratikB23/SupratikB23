@@ -132,8 +132,10 @@
 <br>
 <p></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=SupratikB23&theme=codeSTACKr&hide_border=false)<br/>
+[![Supra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SupratikB23&bg_color=0d1117&color=58a6ff&line=2c7bf2&point=9fcbfe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 
+
+![](https://nirzak-streak-stats.vercel.app/?user=SupratikB23&theme=codeSTACKr&hide_border=false)<br/>
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
