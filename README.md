@@ -119,18 +119,14 @@
 <br>
 <h2 align="left">My GitHub Stats!</h2>
 
-<!-- Copy-paste in your Readme.md file -->
-
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<br>
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=175528697" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=175528697&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @SupratikB23" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=175528697&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<br>
-<p></p>
 
 [![Supra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SupratikB23&bg_color=0d1117&color=58a6ff&line=2c7bf2&point=9fcbfe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
 
