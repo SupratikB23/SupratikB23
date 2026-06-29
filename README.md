@@ -101,9 +101,8 @@
   </p>
 <br>
 
-
+<!-- 
 <h2 align="left">Featured Projects</h2>
-
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
@@ -113,7 +112,7 @@
 | 📊 [**Arabic Dates Classification**](https://github.com/SupratikB23/Arabic-Dates-Classification) | Arabic dates using Fine-Tuned ResNet50 Arch | `Python` `ResNet50` `DL` |
 | 🖼️ [**AI Campaign Manager**](https://github.com/SupratikB23/AI-Campaign-Manager) | AI-powered platform that extracts Brand DNA & generates Static Ad Creatives | `Javascript` `ImageGeneration` `Gemini Vision`|
 | 📝 [**BrandSCOPE**](https://github.com/SupratikB23/BrandSCOPE) | AI Content engine that scrapes Brand DNA, researches live trends & writes SEO/AEO/GEO-optimized articles in the brand's own voice | `Javascript` `Python` `SearchOptimization` `NLP` |
-
+-->
 
 
 <br>
