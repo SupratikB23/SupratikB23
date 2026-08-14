@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">A Zealous Coder and Machine Learning enthusiast surviving College</h3>
+<h3 align="center">Zealous Coder and AI enthusiast surviving College</h3>
 <h4 align="center">Slicing Through Numbers, One Line at a Time</h4>
 
 <div align="center">
