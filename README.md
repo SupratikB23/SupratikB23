@@ -23,8 +23,8 @@
 <td width="60%" valign="top">
   
 - 🎓 3rd Year Undergrad (Batch of 2028)
-- 🔭 Working on **Scientific ML** , **RL Project** and **Computer Vision**
-- 🌱 Currently learning **AI BioTech** & **ADAS systems**
+- 🔭 Working on **Scientific ML** , **AI Alignment** and **Computer Vision**
+- 🌱 Currently learning **Mech Interp.** & **CoT systems**
 - 📫 How to reach me **supratikbhowal23@gmail.com** or **[LinkedIN](https://linkedin.com/in/supratik-bhowal-b58906319)** (always happy to connect)
 - 🧑‍💻 **My PORTFOLIO**: **https://supratikb23.github.io/**
 - ⚡ Fun fact: Lifting Weights and Coding are my Forte. Beyond that, a huge cinephile and anime nerd. (active on **[Letterboxd](https://letterboxd.com/Vanitas23/)**)
